@@ -1,7 +1,7 @@
 from sklearn.ensemble import RandomForestClassifier
 import csv
 
-
+wildd
 
 clf = RandomForestClassifier(n_estimators=1)
 
@@ -58,13 +58,14 @@ else:
 
 # male, yes, monday = 1
 
+'''
 age_val = 5
 gender_val = 5
 people_val = 6
 new_driver_val = 8
 day_of_week_val = 2
 time_val = 7
-
+'''
 
 X = [[16, 1, 5, 1, 6, 2350],[19, 2, 1, 2, 2, 930],[17, 1, 3, 1, 7, 1930],[18, 2, 1, 1, 3, 1125],[15, 1, 2, 1, 5, 2030],[19, 2, 2, 2, 1, 1115],[16, 1, 4, 1, 6, 2218]]
 

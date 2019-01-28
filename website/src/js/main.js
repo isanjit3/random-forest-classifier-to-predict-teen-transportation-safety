@@ -127,4 +127,18 @@
       150
     ))
   }
+
 }())
+
+alert(response);
+if(response == "High Risk"){
+
+}
+
+if(response == "Low Risk"){
+
+}
+
+else if(response == "Medium Risk"){
+
+}
