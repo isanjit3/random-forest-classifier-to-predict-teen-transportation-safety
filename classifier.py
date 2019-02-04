@@ -1,3 +1,6 @@
+# Test classifier with sample data
+
+
 from sklearn.ensemble import RandomForestClassifier
 import csv
 
